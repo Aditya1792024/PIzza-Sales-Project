@@ -9,7 +9,7 @@
   <li>Orders: Includes the date and time for every order placed.</li>
   <li>Order_details: Offers detailed information about each order, such as the specific pizzas purchased and their quantities.</li>
 </ul>
-<h2>Tools and Skills used:</h2>
+<h2>Tools used:</h2>
 <ul>
   <li>Jupyter notebook</li>
   <li>Python libraries like Pandas, Matplotlib</li>
